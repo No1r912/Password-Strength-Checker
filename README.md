@@ -122,11 +122,3 @@ Possible improvements for future versions:
 * Add password breach checking
 * Generate password security reports
 * Add password hashing demonstrations
-
----
-
-## Author
-
-Muhammad Hazwan Al-Imtiaz Bin Khairol Arifin
-
-IT Student interested in cybersecurity, programming, and technology.
